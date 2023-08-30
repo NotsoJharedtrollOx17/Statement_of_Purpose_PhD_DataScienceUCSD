@@ -1,0 +1,7 @@
+paper.pdf
+/latex/configuration.tex
+/latex/StatementofPurpose_FloresAzconaAbraham.tex
+/latex/*.aux
+/latex/*.fdb*
+/latex/*.fls
+/latex/*.log
